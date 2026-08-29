@@ -1,0 +1,10 @@
+{
+  "name": "ultra-message-server",
+  "version": "1.0.0",
+  "description": "Общий сервер ULTRA Message: аккаунты, поиск пользователей, личные сообщения. Без внешних зависимостей — только встроенные модули Node.js.",
+  "main": "server.js",
+  "type": "commonjs",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js" },
+  "dependencies": {}
+}
